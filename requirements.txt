@@ -1,0 +1,27 @@
+# Core dependencies
+langgraph==0.2.56
+langchain-openai==0.2.14
+pydantic==2.10.5
+python-dotenv==1.0.1
+
+# Web scraping (for search fallback)
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# Tavily Search API (Recommended)
+tavily-python==0.5.0
+
+# Optional: SerpAPI
+# google-search-results==2.4.2
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.2
+pytest-cov==6.0.0
+pytest-mock==3.14.0
+
+# Utilities
+typing-extensions==4.12.2
+numpy==1.26.4  # For embedding deduplication
+geopy==2.4.1  # For geocoding (Nominatim)

@@ -1,0 +1,181 @@
+{
+  "facilities": [
+    {
+      "company_name": "Shell",
+      "facility_name": "Deer Park Refinery (Deer Park Manufacturing Complex)",
+      "facility_type": "Oil Refinery",
+      "full_address": "609, Center Street, Deer Park, Texas, 77536, United States",
+      "country": "United States",
+      "city": "Deer Park",
+      "latitude": 29.7052284,
+      "longitude": -95.1238204,
+      "evidence_urls": [
+        "https://www.refinerymaps.com/Shell.html"
+      ],
+      "confidence_score": 0.72,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Pernis Refinery",
+      "facility_type": "Oil Refinery",
+      "full_address": "Rotterdam, Netherlands",
+      "country": "Netherlands",
+      "city": "Rotterdam",
+      "latitude": 51.9244424,
+      "longitude": 4.47775,
+      "evidence_urls": [
+        "https://www.refinerymaps.com/Shell.html"
+      ],
+      "confidence_score": 0.7,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Pulau Bukom Refinery",
+      "facility_type": "Oil Refinery",
+      "full_address": "Pasir Panjang Drive 8, Singapore, 117404, Singapore",
+      "country": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.232102,
+      "longitude": 103.7674891,
+      "evidence_urls": [
+        "https://www.refinerymaps.com/Shell.html"
+      ],
+      "confidence_score": 0.7,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Shell Polymers Monaca (Shell Pennsylvania Petrochemicals Complex)",
+      "facility_type": "Chemical Plant",
+      "full_address": "Potter Township, Beaver County, Pennsylvania, USA",
+      "country": "United States",
+      "city": "Potter Township",
+      "latitude": 40.658209,
+      "longitude": -80.3421675,
+      "evidence_urls": [
+        "https://www.shell.us/about-us/who-we-are/shell-usa-at-a-glance/projects-and-locations.html",
+        "https://portfolio-pplus.azurewebsites.net/Communicator/Details/3615"
+      ],
+      "confidence_score": 0.74,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Shell Downstream Bovarius (Biomethane Facility)",
+      "facility_type": "Manufacturing Facility",
+      "full_address": "175, West Main Street, Wendell, Idaho, 83355, United States",
+      "country": "United States",
+      "city": "Wendell",
+      "latitude": 42.7757368,
+      "longitude": -114.7042168,
+      "evidence_urls": [
+        "https://www.shell.us/about-us/who-we-are/shell-usa-at-a-glance/projects-and-locations.html",
+        "https://advancedbiofuelsusa.info/shell-starts-production-at-its-first-u-s-renewable-natural-gas-facility"
+      ],
+      "confidence_score": 0.66,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Geismar Chemical Plant (Shell Geismar)",
+      "facility_type": "Chemical Plant",
+      "full_address": "31500, Freeze Road, Geismar, Louisiana, 70734, United States",
+      "country": "United States",
+      "city": "Geismar",
+      "latitude": 30.2043633,
+      "longitude": -91.0226013,
+      "evidence_urls": [
+        "https://www.shell.us/about-us/who-we-are/shell-usa-at-a-glance/projects-and-locations.html",
+        "https://www.machinerylubrication.com/Read/30356/shell-plant-production",
+        "https://www.shell.us/about-us/who-we-are/shell-usa-at-a-glance/projects-and-locations/geismar-plant/about-shell-geismar/_jcr_content/root/main/section/call_to_action/links/item0.stream/1727089706864/9071f739dcad68c1af387ddef7c346d2489caa92/geismar-factsheet-2022.pdf"
+      ],
+      "confidence_score": 0.78,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    },
+    {
+      "company_name": "Shell",
+      "facility_name": "Shell Catalysts & Technologies Port Allen Facility",
+      "facility_type": "Chemical Plant",
+      "full_address": "898, California Avenue, Port Allen, Louisiana, 70767, United States",
+      "country": "United States",
+      "city": "Port Allen",
+      "latitude": 30.45335,
+      "longitude": -91.2100569,
+      "evidence_urls": [
+        "https://www.opportunitylouisiana.gov/news/shell-catalysts-technologies-announces-expansion-of-world-scale-facility-in-port-allen"
+      ],
+      "confidence_score": 0.7,
+      "validation_passed": true,
+      "validation_reason": "Passed keyword and LLM validation"
+    }
+  ],
+  "metadata": {
+    "total_facilities": 7,
+    "companies_processed": [
+      "Shell"
+    ],
+    "company_details": [
+      {
+        "company": "Shell",
+        "total_facilities": 7,
+        "timestamp": "2026-01-08T16:12:46.174118",
+        "search_results_count": 12,
+        "extracted_count": 8,
+        "validated_count": 7,
+        "errors": [],
+        "total_tokens_used": 3228,
+        "total_api_calls": 9,
+        "execution_time_seconds": 17.0,
+        "prompt_tokens": 3020,
+        "completion_tokens": 40,
+        "estimated_cost_usd": 0.0314,
+        "node_breakdown": {
+          "search": {
+            "api_calls": 0,
+            "tokens": 0,
+            "cost": 0.0,
+            "execution_time_seconds": 0.05
+          },
+          "extraction": {
+            "api_calls": 0,
+            "tokens": 0,
+            "cost": 0.0,
+            "execution_time_seconds": 0.05
+          },
+          "validation": {
+            "api_calls": 8,
+            "tokens": 3060,
+            "cost": 0.0314,
+            "execution_time_seconds": 7.85
+          },
+          "geocoding": {
+            "api_calls": 0,
+            "tokens": 0,
+            "cost": 0.0,
+            "execution_time_seconds": 0.48
+          },
+          "deduplication": {
+            "api_calls": 1,
+            "tokens": 168,
+            "cost": 0.0,
+            "execution_time_seconds": 0.44
+          },
+          "output": {
+            "api_calls": 0,
+            "tokens": 0,
+            "cost": 0.0,
+            "execution_time_seconds": 0.0
+          }
+        }
+      }
+    ]
+  }
+}
