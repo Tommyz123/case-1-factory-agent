@@ -124,7 +124,7 @@ case-1-factory-agent/
 │   ├── test_geocoding_node.py     # 地理编码节点测试
 │   └── test_geocoding_service.py  # 地理编码服务测试
 ├── docs/
-│   └── TECHNICAL_DESIGN.md # 详细技术文档（1900+ 行）
+│   └── TECHNICAL_DESIGN.md # 详细技术文档（1900+ 行，中文）
 ├── examples/
 │   ├── input_example.json  # 示例输入
 │   └── output_example.json # 示例输出（8个Shell设施）
